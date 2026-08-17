@@ -16,7 +16,7 @@ app.get("/", (req, res) => {
 
                 <h2>GitHub → Jenkins → Docker → Docker Hub → Kubernetes</h2>
 
-                <p>Application Version: 3.0</p>
+                <p>Application Version: 4.0</p>
 
                 <p>Status: Running</p>
             </body>
